@@ -72,8 +72,7 @@ The exact validated package versions are pinned in
 ## Installation
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd AAAI27_Code
+git clone https://github.com/Serendipityoh/RTA-DFL.git
 
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
