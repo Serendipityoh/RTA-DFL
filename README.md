@@ -36,7 +36,6 @@ preprocessing, and protocol tests.
 | Committee assignment and protected aggregation | [`secure_protocol.py`](secure_protocol.py) |
 | Byzantine attacks | [`attacks.py`](attacks.py) |
 | Image and sensor models | [`model.py`](model.py), [`sensor_models.py`](sensor_models.py) |
-| Dataset loading and non-IID partitioning | [`data.py`](data.py), [`sensor_data.py`](sensor_data.py) |
 | Named experiment settings | [`configs/`](configs) |
 | Protocol and end-to-end smoke tests | [`tests/`](tests) |
 
